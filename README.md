@@ -1,6 +1,6 @@
 ## Saaaalve! Eu sou Gabriel Jesus. Espero que goste do meu perfil 🤠  
 
- 👨‍🎓Estudante de Análise e Desenvolvimento de Sistemas
+ 👨‍🎓Estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá
   
   
  🎯**Objetivos:** *Desenvolvivmento Full Stack em .NET*

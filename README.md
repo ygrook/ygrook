@@ -1,11 +1,21 @@
-## Saaaalve! Eu sou Gabriel Jesus. Espero que goste do meu perfil 🤠  
+## 👋 Olá! Eu sou Gabriel Jesus  
 
- 👨‍🎓Estudante de Análise e Desenvolvimento de Sistemas na Estácio de Sá
-  
-  
- 🎯**Objetivos:** *Desenvolvivmento Full Stack em .NET*
-  
- 📚**Estudando atualmente:** *.NET e JavaScript*
+ Desenvolvedor Python com experiência prática no desenvolvimento de soluções internas voltadas para integração com APIs de IA (OpenAI), automação de processos e extração de dados estruturados. Atuo profissionalmente com FastAPI, REST APIs, manipulação de PDFs com IA, Docker, SQL Server e ERP JD Edwards.
+
+Grande parte dos meus projetos foram desenvolvidos em ambiente corporativo, o que limita a publicação de repositórios públicos. No entanto, mantenho este espaço ativo para estudos, experimentos e contribuições que reflitam meu aprendizado contínuo e interesse em tecnologia.
+
+💡 Áreas de interesse:
+
+APIs com Python e FastAPI
+
+Inteligência Artificial aplicada a dados estruturados
+
+Integração com sistemas corporativos (ERP)
+
+Automação de processos e backend development
+
+📌 Tecnologias principais:
+Python · FastAPI · SQL Server · Docker · OpenAI API · JD Edwards
   
   
  *Aqui compartilho os meus estudos e futuramente projetos.*
